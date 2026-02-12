@@ -23,14 +23,7 @@ I am a versatile developer trained in the **Zone01 collective intelligence ecosy
 * **Polyglot Mindset:** Whether it’s low-level memory management in Rust or enterprise-grade APIs in Spring Boot, I pick the right tool for the job.
 * **Global Ready:** Fluent in English and experienced in international, fast-paced environments.
 
----
 
-### 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hajji-Ismail&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hajji-Ismail&layout=compact&theme=radical)
-
----
 
 ### 📫 Connect with Me
 
